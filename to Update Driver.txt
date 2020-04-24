@@ -1,0 +1,3 @@
+to update is to download proper chromedriver.exe file for your 
+chrome version .
+that is repeat the Read Me steps.
